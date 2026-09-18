@@ -1,0 +1,15 @@
+venv
+
+.mypy_cache__/
+
+.pytest_cache__/
+
+*.pyc
+
+__pycache__/
+
+.env
+
+.venv
+
+data/
